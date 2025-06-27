@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navodya Karunathilaka</h1>
 <h3 align="center">BSc Software Engineering UG @ SLIIT | Passionate About Technology</h3>
-<h3 align="center">ull Stack Developer | Web Desktop Developer | Mobile App Developer | Competitive Programmer </h3>
+<h3 align="center">Full Stack Developer | Web Desktop Developer | Mobile App Developer | Competitive Programmer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navodyakarunathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="navodyakarunathilaka" /> </p>
 
 - 🌱 I’m currently learning **Python**
