@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- 🖼️ Replace the link below with your profile photo or banner -->
-  <img src="https://via.placeholder.com/600x200.png?text=Your+Banner+Here" alt="Profile Banner" width="70%" />
+  <img src="Master the essential building blocks of….jpg" width="30%" />
 </p>
 
 ---
