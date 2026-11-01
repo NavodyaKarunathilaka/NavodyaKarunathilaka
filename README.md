@@ -61,14 +61,6 @@
 
 ---
 
-## :octocat: DevOps:
-
-<p>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> Git
-</p>
-
----
-
 ## 🔧 Testing:
 
 <p>
